@@ -38,8 +38,7 @@ Power supply (appropriate for your motors)
 
 Capacitors (optional, to reduce electrical noise)
 
+![a73bfc9c-7c69-44fa-9d0f-321e034d6f4e](https://github.com/user-attachments/assets/ce89eb94-f79a-4e75-94f2-4d1aac94c8b0)
 
-
-![Uploading a73bfc9c-7c69-44fa-9d0f-321e034d6f4e.png…]()
 
 
